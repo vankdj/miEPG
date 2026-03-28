@@ -62,20 +62,20 @@
 	</programme>
 	<programme start="20260328112000 +0100" stop="20260328121000 +0100" channel="La 1">
     <title>Viaje al centro de la tele T13 · Zoombados</title>
-    <desc>Entretenimiento,Zapping | 2023 | TP | *5.8/10
+    <desc>Entretenimiento,Zapping | 2023 | TP | *6.0/10
 · Delirante viaje por las actuaciones musicales de los programas musicales realizados por Valerio Lazarov. Con sus llamativos zums, incrustaciones de imágenes por la técnica del croma y sus surrealistas puestas en escena.
 · País: España
 · Dirección: Pedro Santos.</desc>
 	</programme>
 	<programme start="20260328121000 +0100" stop="20260328130500 +0100" channel="La 1">
     <title>Viaje al centro de la tele exprés T1 · Música en femenino exprés (primera parte)</title>
-    <desc>Entretenimiento,Zapping | 2025 | TP | *5.8/10
+    <desc>Entretenimiento,Zapping | 2025 | TP | *6.0/10
 · Televisión Española recuerda los mejores momentos de la historia del medio televisivo.
 · País: España</desc>
 	</programme>
 	<programme start="20260328130500 +0100" stop="20260328145500 +0100" channel="La 1">
     <title>D Corazón T3 E25</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *5.2/10
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.0/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
@@ -90,7 +90,7 @@
 	</programme>
 	<programme start="20260328154500 +0100" stop="20260328155000 +0100" channel="La 1">
     <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
@@ -156,7 +156,7 @@
 	</programme>
 	<programme start="20260328213000 +0100" stop="20260328220500 +0100" channel="La 1">
     <title>Informe Semanal T25/26 E28</title>
-    <desc>Información,Reportaje | 2026 | +7 | *6.0/10
+    <desc>Información,Reportaje | 2026 | +16 | *6.0/10
 · El programa pone el foco en las víctimas de pederastia de la Iglesia católica española, que han vivido décadas de desamparo y esperan un acuerdo definitivo sobre su reparación.
 · País: España
 · Presenta: Lourdes Maldonado.
@@ -252,7 +252,7 @@
 	</programme>
 	<programme start="20260329154500 +0200" stop="20260329155000 +0200" channel="La 1">
     <title>Deportes 1</title>
-    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
 · Actualidad deportiva diaria nacional e internacional.
 · País: España
 · Presenta: Ana Ibáñez, Lara Gandarillas, Marcos López.</desc>
@@ -784,7 +784,7 @@
 	</programme>
 	<programme start="20260328110500 +0100" stop="20260328113000 +0100" channel="La 2 Super Full HD 8k">
     <title>Arqueomanía: Magdalenienses</title>
-    <desc>Documentales,Historia | 2022 | TP | *8.6/10
+    <desc>Documentales,Historia | 2022 | TP | *7.0/10
 · ¿Fue la cultura magdaleniense la primera netamente europea? ¿Se extendió por toda la península ibérica? Manuel Pimentel tratará de responder a estas y otras cuestiones.
 · País: España
 · Presenta: Manuel Pimentel.
@@ -793,7 +793,7 @@
 	</programme>
 	<programme start="20260328113000 +0100" stop="20260328120000 +0100" channel="La 2 Super Full HD 8k">
     <title>Arqueomanía: El comercio de Roma</title>
-    <desc>Documentales,Historia | 2022 | TP | *8.0/10
+    <desc>Documentales,Historia | 2022 | TP | *6.4/10
 · Conocemos Roma, la gran Roma, por sus conquistas militares, por el derecho y por el arte. Hoy, nos acercaremos a su compleja realidad a través de la actividad comercial.
 · País: España
 · Presenta: Manuel Pimentel.
@@ -853,7 +853,7 @@
 · Presenta: Rodrigo Vázquez, Núria Ramírez.</desc>
 	</programme>
 	<programme start="20260328162000 +0100" stop="20260328171000 +0100" channel="La 2 Super Full HD 8k">
-    <title>Cuentos de Zambia: Chilema y su hermano · Cuentos de Zambia: Chilema i el seu germà</title>
+    <title>Cuentos de Zambia: Chilema y su hermano</title>
     <desc>Documentales,Naturaleza | 2017 | TP | *6.0/10
 · En el corazón del valle Luangwa, dos hermanos elefantes con problemas diferentes luchan por la supervivencia en la época más difícil del año.
 · País: Reino Unido
@@ -873,7 +873,7 @@
 	</programme>
 	<programme start="20260328183000 +0100" stop="20260328193000 +0100" channel="La 2 Super Full HD 8k">
     <title>Días de cine T25/26 E31</title>
-    <desc>Cine,Programa de cine | 2026 | +12
+    <desc>Cine,Programa de cine | 2026 | +12 | *6.0/10
 · Programa que informa sobre la actualidad cinematográfica nacional e internacional.
 · País: España
 · Dirección: Gerardo Sánchez.
@@ -924,7 +924,7 @@
 	</programme>
 	<programme start="20260329042000 +0100" stop="20260329051000 +0100" channel="La 2 Super Full HD 8k">
     <title>Documentos TV T25/26 · Refugiados climáticos: un desafío global</title>
-    <desc>Información | 2026 | +7 | *6.2/10
+    <desc>Información | 2026 | +7 | *6.4/10
 · Un documental que explora las consecuencias humanas provocadas por el cambio climático a través de diferentes iniciativas e historias individuales.
 · País: España
 · Dirección: Pilar Requena.
@@ -1083,7 +1083,7 @@
 	</programme>
 	<programme start="20260329144000 +0100" stop="20260329153000 +0100" channel="La 2 Super Full HD 8k">
     <title>Saber y ganar fin de semana T14 E28</title>
-    <desc>Entretenimiento,Concurso | 2025 | TP | *5.2/10
+    <desc>Entretenimiento,Concurso | 2025 | TP | *5.0/10
 · Edición de fin de semana del concurso más longevo de Televisión Española.
 · País: España
 · Presenta: Jordi Hurtado.
@@ -1146,7 +1146,7 @@
 · País: España</desc>
 	</programme>
 	<programme start="20260329213500 +0100" stop="20260329223000 +0100" channel="La 2 Super Full HD 8k">
-    <title>Mary Santpere, la reina del Paralelo</title>
+    <title>Mary Santpere, la reina del Paralelo · La Mary, la reina del Paral·lel</title>
     <desc>Documentales,Biografía | 2015 | TP | *5.8/10
 · Este programa recorre la trayectoria de la vedet barcelonesa Mary Santpere.
 · País: España

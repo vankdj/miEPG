@@ -1,0 +1,2 @@
+# Fuente: https://epg.pw/api/epg.xml?channel_id=427662
+427662,Sky Sports [MX],https://epg.pw/media/images/epg/2025/04/23/20250423020714143153_87.png

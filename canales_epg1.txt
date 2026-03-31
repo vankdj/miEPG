@@ -319,8 +319,8 @@ GCM,GCM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GC
 AZ Corazón,AZ Corazón,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AZ%20Coraz%C3%B3n.png
 etb1 euskera,etb1 euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1%20euskera.png
 etb2 euskera,etb2 euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2%20euskera.png
-etb1ON euskera,etb1ON euskera,
-etb2ON euskera,etb2ON euskera,
+etb1ON euskera,etb1ON euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1ON%20euskera.png
+etb2ON euskera,etb2ON euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2ON%20euskera.png
 La 1 Cataluña,La 1 Cataluña,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Catalu%C3%B1a.png
 La 2 Cataluña,La 2 Cataluña,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Catalu%C3%B1a.png
 24 horas Cataluña,24 horas Cataluña,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Catalu%C3%B1a.png
@@ -448,6 +448,7 @@ tlnovelas,tlnovelas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/ma
 DePelícula,DePelícula,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png
 DejateTV,DejateTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
 PTV Granada,PTV Granada,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png
+PTV Sevilla,PTV Sevilla,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png
 PTV Córdoba,PTV Córdoba,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png
 PTV Málaga,PTV Málaga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
@@ -616,7 +617,7 @@ DE | Sky Sport 4,DE | Sky Sport 4,https://www.sky.de/static/img/senderlogos_dark
 DE | Sky Sport 5,DE | Sky Sport 5,https://www.sky.de/static/img/senderlogos_dark/134_sky_logo_skysporthd7_tvguide.png
 DE | Sky Sport 6,DE | Sky Sport 6,
 DE | Sky Sport 7,DE | Sky Sport 7,
-DE | Sky Sport 8,DE | Sky Sport 8,
+DE | Sky Sport 8,DE | Sky Sport 8,https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png
 DE | Sky Sport 9,DE | Sky Sport 9,
 DE | Sky Sport 10,DE | Sky Sport 10,
 DE | Motorvision+,DE | Motorvision+,https://www.sky.de/static/img/senderlogos_dark/52_sky_logo_motorvision_b.png

@@ -448,6 +448,7 @@ Fight Time,Fight Time,https://raw.githubusercontent.com/davidmuma/picons_dobleM/
 tlnovelas,tlnovelas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png
 DePelícula,DePelícula,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png
 DejateTV,DejateTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
+PTV Linares,PTV Linares,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 NFL Network,NFL Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
 Red Bull TV,Red Bull TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png
 Unbeaten,Unbeaten,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png
@@ -613,7 +614,7 @@ DE | Sky Sport 3,DE | Sky Sport 3,
 DE | Sky Sport 4,DE | Sky Sport 4,
 DE | Sky Sport 5,DE | Sky Sport 5,
 DE | Sky Sport 6,DE | Sky Sport 6,
-DE | Sky Sport 7,DE | Sky Sport 7,
+DE | Sky Sport 7,DE | Sky Sport 7,https://www.sky.de/static/img/senderlogos_dark/136_sky_logo_skysporthd9_tvguide.png
 DE | Sky Sport 8,DE | Sky Sport 8,https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png
 DE | Sky Sport 9,DE | Sky Sport 9,
 DE | Sky Sport 10,DE | Sky Sport 10,

@@ -442,7 +442,6 @@ DePelícula,DePelícula,https://raw.githubusercontent.com/davidmuma/picons_doble
 DejateTV,DejateTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
 PTV Granada,PTV Granada,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png
 PTV Sevilla,PTV Sevilla,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png
-PTV Córdoba,PTV Córdoba,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png
 PTV Linares,PTV Linares,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
@@ -614,8 +613,8 @@ DE | Sky Sport 4,DE | Sky Sport 4,https://www.sky.de/static/img/senderlogos_dark
 DE | Sky Sport 5,DE | Sky Sport 5,
 DE | Sky Sport 6,DE | Sky Sport 6,https://www.sky.de/static/img/senderlogos_dark/135_sky_logo_skysporthd8_tvguide.png
 DE | Sky Sport 7,DE | Sky Sport 7,
-DE | Sky Sport 8,DE | Sky Sport 8,https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png
-DE | Sky Sport 9,DE | Sky Sport 9,https://www.sky.de/static/img/senderlogos_dark/138_sky_logo_skysporthd11_tvguide.png
+DE | Sky Sport 8,DE | Sky Sport 8,
+DE | Sky Sport 9,DE | Sky Sport 9,
 DE | Sky Sport 10,DE | Sky Sport 10,
 DE | Motorvision+,DE | Motorvision+,https://www.sky.de/static/img/senderlogos_dark/52_sky_logo_motorvision_b.png
 UK | TNT Sports 1,UK | TNT Sports 1,https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png

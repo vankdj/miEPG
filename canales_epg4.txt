@@ -496,7 +496,6 @@ Karuzela Śmiechu,Karuzela Śmiechu,http://epg.ovh/logo/Karuzela+%c5%9amiechu.pn
 Kabaret TV,Kabaret TV,http://epg.ovh/logo/Kabaret+TV.png
 1+1 International,1+1 International,http://epg.ovh/logo/1%2b1+International.png
 KYC KYC,KYC KYC,http://epg.ovh/logo/KYC+KYC.png
-KVARTAL TV,KVARTAL TV,http://epg.ovh/logo/KVARTAL+TV.png
 FILM UA DRAMA,FILM UA DRAMA,http://epg.ovh/logo/FILM+UA+DRAMA.png
 DACHA,DACHA,http://epg.ovh/logo/DACHA.png
 XSport,XSport,http://epg.ovh/logo/XSport.png

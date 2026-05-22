@@ -141,7 +141,7 @@ TVN Style,TVN Style,http://epg.ovh/logo/TVN+Style.png
 Polsat Café,Polsat Café,http://epg.ovh/logo/Polsat+Caf%c3%a9.png
 Polsat Rodzina,Polsat Rodzina,http://epg.ovh/logo/Polsat+Rodzina.png
 Show TV,Show TV,http://epg.ovh/logo/Show+TV.png
-Red Carpet TV International,Red Carpet TV International,http://epg.ovh/logo/Red+Carpet+TV+International.png
+Red Carpet,Red Carpet,http://epg.ovh/logo/Red+Carpet.png
 ViDoc TV1,ViDoc TV1,http://epg.ovh/logo/ViDoc+TV1.png
 Love,Love,http://epg.ovh/logo/Love.png
 Travel Channel,Travel Channel,http://epg.ovh/logo/Travel+Channel.png
@@ -208,7 +208,7 @@ TV Regio,TV Regio,http://epg.ovh/logo/TV+Regio.png
 Toya,Toya,http://epg.ovh/logo/Toya.png
 TVT,TVT,http://epg.ovh/logo/TVT.png
 TV ASTA,TV ASTA,http://epg.ovh/logo/TV+ASTA.png
-ProArt,ProArt,http://epg.ovh/logo/ProArt.png
+Proart,Proart,http://epg.ovh/logo/Proart.png
 TV TORUŃ,TV TORUŃ,http://epg.ovh/logo/TV+TORU%c5%83.png
 SFERA TV,SFERA TV,http://epg.ovh/logo/SFERA+TV.png
 ZTV Zachodniopomorska,ZTV Zachodniopomorska,http://epg.ovh/logo/ZTV+Zachodniopomorska.png
@@ -703,7 +703,7 @@ Joj Sport,Joj Sport,http://epg.ovh/logo/Joj+Sport.png
 Joj Sport 2,Joj Sport 2,http://epg.ovh/logo/Joj+Sport+2.png
 CT 1,CT 1,http://epg.ovh/logo/CT+1.png
 CT 2,CT 2,http://epg.ovh/logo/CT+2.png
-CT Sport,CT Sport,http://epg.ovh/logo/CT+Sport.png
+CT sport,CT sport,http://epg.ovh/logo/CT+sport.png
 RTVS Sport,RTVS Sport,http://epg.ovh/logo/RTVS+Sport.png
 Sport 1,Sport 1,http://epg.ovh/logo/Sport+1.png
 Sport 2,Sport 2,http://epg.ovh/logo/Sport+2.png

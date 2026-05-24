@@ -176,6 +176,15 @@ DAZN LaLiga 5,DAZN LaLiga 5,https://raw.githubusercontent.com/davidmuma/picons_d
 M+ Vamos 2,M+ Vamos 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png
 M+ Vamos 3,M+ Vamos 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png
 LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png
+LaLiga TV Hypermotion 4,LaLiga TV Hypermotion 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png
+LaLiga TV Hypermotion 5,LaLiga TV Hypermotion 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
+LaLiga TV Hypermotion 6,LaLiga TV Hypermotion 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%206.png
+LaLiga TV Hypermotion 7,LaLiga TV Hypermotion 7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%207.png
+LaLiga TV Hypermotion 8,LaLiga TV Hypermotion 8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%208.png
+LaLiga TV Hypermotion 9,LaLiga TV Hypermotion 9,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%209.png
+LaLiga TV Hypermotion 10,LaLiga TV Hypermotion 10,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2010.png
+LaLiga TV Hypermotion 11,LaLiga TV Hypermotion 11,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2011.png
+LaLiga TV Hypermotion 12,LaLiga TV Hypermotion 12,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2012.png
 M+ Deportes 4,M+ Deportes 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png
 M+ Deportes 5,M+ Deportes 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png
 M+ Deportes 6,M+ Deportes 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png
@@ -442,7 +451,6 @@ Fight Time,Fight Time,https://raw.githubusercontent.com/davidmuma/picons_dobleM/
 tlnovelas,tlnovelas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png
 DePelícula,DePelícula,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png
 DejateTV,DejateTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
-PTV Granada,PTV Granada,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png
 PTV Linares,PTV Linares,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
@@ -450,14 +458,6 @@ Red Bull TV,Red Bull TV,https://raw.githubusercontent.com/davidmuma/picons_doble
 Unbeaten,Unbeaten,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png
 DAZN Bundesliga,DAZN Bundesliga,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
 DAZN LALIGA EA SPORTS,DAZN LALIGA EA SPORTS,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 2,DAZN LALIGA EA SPORTS 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 3,DAZN LALIGA EA SPORTS 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 4,DAZN LALIGA EA SPORTS 4,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 5,DAZN LALIGA EA SPORTS 5,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 6,DAZN LALIGA EA SPORTS 6,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 7,DAZN LALIGA EA SPORTS 7,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 8,DAZN LALIGA EA SPORTS 8,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN LALIGA EA SPORTS 9,DAZN LALIGA EA SPORTS 9,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F,DAZN Liga F,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F 2,DAZN Liga F 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F 3,DAZN Liga F 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
@@ -592,7 +592,7 @@ DE | Rally TV,DE | Rally TV,https://raw.githubusercontent.com/davidmuma/picons_d
 DE | DAZN 1,DE | DAZN 1,https://www.sky.de/static/img/senderlogos_dark/659_sky_logo_dazn1-hd_tvguide.png
 DE | DAZN 2,DE | DAZN 2,https://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png
 DE | Sky Sport Austria 1,DE | Sky Sport Austria 1,https://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
-DE | Sky Sport Austria 2,DE | Sky Sport Austria 2,https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
+DE | Sky Sport Austria 2,DE | Sky Sport Austria 2,
 DE | Sky Sport Austria 3,DE | Sky Sport Austria 3,
 DE | Sky Sport Austria 4,DE | Sky Sport Austria 4,https://www.sky.de/static/img/senderlogos_dark/898_sky_logo_skysportaustria_4-hd_tvguide.png
 DE | Sky Sport Austria 5,DE | Sky Sport Austria 5,
@@ -634,11 +634,11 @@ UK | TNT Sports 10,UK | TNT Sports 10,https://tv.assets.pressassociation.io/b029
 UK | TNT Sports Box Office,UK | TNT Sports Box Office,https://tv.assets.pressassociation.io/0e736662-ebac-5fa5-9a38-f79e5f91e0a2.png
 UK | TNT Sports Box Office 2,UK | TNT Sports Box Office 2,https://tv.assets.pressassociation.io/a5a4c54e-969e-5fd2-96bc-bae1e24edc90.png
 UK | TNT Sports Ultimate,UK | TNT Sports Ultimate,https://tv.assets.pressassociation.io/89a98873-d91f-5165-a45f-9771712801ac.png
-UK | Sky Sports Action,UK | Sky Sports Action,https://tv.assets.pressassociation.io/ba5bb3d5-f577-5ccf-9064-400eeb64cbe2.png
+UK | Sky Sports Action,UK | Sky Sports Action,https://tv.assets.pressassociation.io/2572d3f8-dd18-5558-ac1a-e9f69c8153ac.png
 UK | Sky Sports +,UK | Sky Sports +,https://tv.assets.pressassociation.io/7b9aa7fb-3ec6-5ba6-94d6-9490bfecfc20.png
 UK | Sky Sports Box Office,UK | Sky Sports Box Office,https://tv.assets.pressassociation.io/d3f5a3f4-3011-517a-99ab-fea7a9c8a095.png
-UK | Sky Sports Cricket,UK | Sky Sports Cricket,https://tv.assets.pressassociation.io/a7d89d33-c1ac-5323-9c3e-aa9a0c7aa367.png
-UK | Sky Sports F1,UK | Sky Sports F1,https://tv.assets.pressassociation.io/697b9b06-530b-5dd9-a4c7-1947e2ab93d7.png
+UK | Sky Sports Cricket,UK | Sky Sports Cricket,https://tv.assets.pressassociation.io/f8de69a5-4c3e-5836-b93e-aa7f71d073dc.png
+UK | Sky Sports F1,UK | Sky Sports F1,https://tv.assets.pressassociation.io/c6097aae-315b-5fa6-aad1-7445d5ab3123.png
 UK | Sky Sports Football,UK | Sky Sports Football,https://tv.assets.pressassociation.io/7562df2e-66f9-5f0e-9915-3668225921b6.png
 UK | Sky Sports Golf,UK | Sky Sports Golf,https://tv.assets.pressassociation.io/a456d96d-77b5-57da-b352-c63c0b08ce1f.png
 UK | Sky Sports Main Event,UK | Sky Sports Main Event,https://tv.assets.pressassociation.io/18efe60b-b0e4-5e7a-a303-ab7a9590f5fa.png

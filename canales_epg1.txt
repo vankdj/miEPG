@@ -8,9 +8,9 @@ La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/m
 M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
 M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
-M+ Los 2000,M+ Los 2000,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Los%202000.png
+M+ Vacaciones,M+ Vacaciones,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vacaciones.png
 M+ Documentales HD,M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
-M+ Top Comedia Española,M+ Top Comedia Española,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Top%20Comedia%20Espa%C3%B1ola.png
+M+ Orgullo,M+ Orgullo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Orgullo.png
 M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
 M+ Acción HD,M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
 M+ Comedia HD,M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
@@ -132,7 +132,7 @@ M+ Vamos HD,M+ Vamos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/m
 M+ LaLiga HD,M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
 DAZN LaLiga HD,DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png
-M+ LaLiga 2 HD,M+ LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png
+M+ Fanzone,M+ Fanzone,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Fanzone.png
 DAZN LaLiga 2 HD,DAZN LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png
 LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
 M+ Liga de Campeones HD,M+ Liga de Campeones,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
@@ -456,7 +456,6 @@ PTV Málaga,PTV Málaga,https://raw.githubusercontent.com/davidmuma/picons_doble
 NFL Network,NFL Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
 Red Bull TV,Red Bull TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png
 Unbeaten,Unbeaten,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png
-DAZN Bundesliga,DAZN Bundesliga,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F,DAZN Liga F,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F 2,DAZN Liga F 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F 3,DAZN Liga F 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
@@ -590,10 +589,10 @@ DE | Sky Sport Bundesliga 3,DE | Sky Sport Bundesliga 3,
 DE | Sky Sport Bundesliga 4,DE | Sky Sport Bundesliga 4,
 DE | Sky Sport Bundesliga 5,DE | Sky Sport Bundesliga 5,
 DE | Sky Sport Bundesliga 6,DE | Sky Sport Bundesliga 6,
-DE | Sky Sport Bundesliga 7,DE | Sky Sport Bundesliga 7,
-DE | Sky Sport Bundesliga 8,DE | Sky Sport Bundesliga 8,
-DE | Sky Sport Bundesliga 9,DE | Sky Sport Bundesliga 9,
-DE | Sky Sport Bundesliga 10,DE | Sky Sport Bundesliga 10,
+DE | Sky Sport Bundesliga 7,DE | Sky Sport Bundesliga 7,https://www.sky.de/static/img/senderlogos_dark/125_sky_logo_skybundesligahd8_tvguide.png
+DE | Sky Sport Bundesliga 8,DE | Sky Sport Bundesliga 8,https://www.sky.de/static/img/senderlogos_dark/126_sky_logo_skybundesligahd9_tvguide.png
+DE | Sky Sport Bundesliga 9,DE | Sky Sport Bundesliga 9,https://www.sky.de/static/img/senderlogos_dark/127_sky_logo_skybundesligahd10_tvguide.png
+DE | Sky Sport Bundesliga 10,DE | Sky Sport Bundesliga 10,https://www.sky.de/static/img/senderlogos_dark/998_sky_logo_sky-sport-buli-10-hd_tvguide.png
 DE | Sky Sport 1,DE | Sky Sport 1,https://www.sky.de/static/img/senderlogos_dark/130_sky_logo_skysporthd3_tvguide.png
 DE | Sky Sport 2,DE | Sky Sport 2,
 DE | Sky Sport 3,DE | Sky Sport 3,

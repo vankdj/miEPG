@@ -460,7 +460,6 @@ DAZN Liga F,DAZN Liga F,https://image.discovery.indazn.com/eu/v4/onboarding-imag
 DAZN Liga F 2,DAZN Liga F 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F 3,DAZN Liga F 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Liga F 4,DAZN Liga F 4,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
-DAZN Liga F 5,DAZN Liga F 5,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
 1+1 International,1+1 International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20International.png
@@ -583,7 +582,7 @@ DE | Sky Sport Austria 6,DE | Sky Sport Austria 6,
 DE | Sky Sport Austria 7,DE | Sky Sport Austria 7,
 DE | Sky Sport Austria 8,DE | Sky Sport Austria 8,
 DE | Sky Sport Bundesliga,DE | Sky Sport Bundesliga,https://www.sky.de/static/img/senderlogos_dark/1018_sky_logo_sky-sport-buli-hd_tvguide.png
-DE | Sky Sport Bundesliga 1,DE | Sky Sport Bundesliga 1,https://www.sky.de/static/img/senderlogos_dark/119_sky_logo_skybundesligahd2_tvguide.png
+DE | Sky Sport Bundesliga 1,DE | Sky Sport Bundesliga 1,
 DE | Sky Sport Bundesliga 2,DE | Sky Sport Bundesliga 2,
 DE | Sky Sport Bundesliga 3,DE | Sky Sport Bundesliga 3,
 DE | Sky Sport Bundesliga 4,DE | Sky Sport Bundesliga 4,

@@ -591,7 +591,7 @@ DE | Sky Sport Bundesliga 7,DE | Sky Sport Bundesliga 7,https://www.sky.de/stati
 DE | Sky Sport Bundesliga 8,DE | Sky Sport Bundesliga 8,https://www.sky.de/static/img/senderlogos_dark/126_sky_logo_skybundesligahd9_tvguide.png
 DE | Sky Sport Bundesliga 9,DE | Sky Sport Bundesliga 9,https://www.sky.de/static/img/senderlogos_dark/127_sky_logo_skybundesligahd10_tvguide.png
 DE | Sky Sport Bundesliga 10,DE | Sky Sport Bundesliga 10,https://www.sky.de/static/img/senderlogos_dark/998_sky_logo_sky-sport-buli-10-hd_tvguide.png
-DE | Sky Sport 1,DE | Sky Sport 1,https://www.sky.de/static/img/senderlogos_dark/130_sky_logo_skysporthd3_tvguide.png
+DE | Sky Sport 1,DE | Sky Sport 1,
 DE | Sky Sport 2,DE | Sky Sport 2,
 DE | Sky Sport 3,DE | Sky Sport 3,
 DE | Sky Sport 4,DE | Sky Sport 4,https://www.sky.de/static/img/senderlogos_dark/133_sky_logo_skysporthd6_tvguide.png

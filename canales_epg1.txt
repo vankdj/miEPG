@@ -389,7 +389,7 @@ Televisió de Badalona,Televisió de Badalona,https://d22hf6hy3vcb1o.cloudfront.
 El 9 TV,El 9 TV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/84a7b6f48af446a590975ce5de68531f/Images/6d726d26edaf4627a361676becc0801c
 Cugat Media,Cugat Media,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/79be7d3777f941d38b04f864089b85e9
 Olot TV,Olot TV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/1f5bd5cdeb5d40cda734385044e1636e
-Canal Taronja Central,Canal Taronja Central,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2483804e1dd343a08a95864a921fdce8/Images/bf16514e0dca4106954747a84dabb40a
+Canal Taronja Central,Canal Taronja Central,
 VOTV,VOTV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/f3496345ca4f49e1b16c1f306ac33090
 Canal Blau,Canal Blau,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/4bf5cd5a7b124e96b80a8bfecc45c730
 Lleida TV,Lleida TV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/58747f9ed82342bd8472425d531d402b
@@ -421,7 +421,6 @@ Sony One Hits Comedia,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/
 Sony One Hits Acción,Sony One Hits Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png
 Mr Bean Animated,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
 Tennis+,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
-FashionTV,FashionTV,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
 Liga de Campeones BAR 2,Liga de Campeones BAR 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png
 Liga de Campeones BAR 3,Liga de Campeones BAR 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%203.png
 Liga de Campeones BAR 4,Liga de Campeones BAR 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%204.png
@@ -453,9 +452,9 @@ DAZN Copa Mundial de FIFA 2,DAZN Copa Mundial de FIFA 2,https://image.discovery.
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
 1+1 International,1+1 International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20International.png
-En Familia (Rakuten TV),En Familia (Rakuten TV),
-Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV),
-Sci-Fi (Rakuten TV),Sci-Fi (Rakuten TV),
+En Familia (Rakuten TV),En Familia (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png
+Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4d1281cf-8f8d-4197-9420-6ac85162e143.png
+Sci-Fi (Rakuten TV),Sci-Fi (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/04ac7530-32fc-45cb-b8f8-7f73f34105e4.png
 Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png
 Crimen (Rakuten TV),Crimen (Rakuten TV),
 Thrillers (Rakuten TV),Thrillers (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5728a608-5527-4d19-a4cc-18ca9f019688.png
@@ -466,7 +465,7 @@ Dramas (Rakuten TV),Dramas (Rakuten TV),https://images-0.rakuten.tv/storage/glob
 Comedias (Rakuten TV),Comedias (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png
 Acción (Rakuten TV),Acción (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png
 Pelis Top (Rakuten TV),Pelis Top (Rakuten TV),https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png
-Red Bull TV (Rakuten TV),Red Bull TV (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
+Red Bull TV,Red Bull TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
 FIFA+,FIFA+,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
@@ -567,7 +566,7 @@ DE | Rally TV,DE | Rally TV,https://raw.githubusercontent.com/davidmuma/picons_d
 DE | DAZN 1,DE | DAZN 1,https://www.sky.de/static/img/senderlogos_dark/659_sky_logo_dazn1-hd_tvguide.png
 DE | DAZN 2,DE | DAZN 2,https://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png
 DE | Sky Sport Austria 1,DE | Sky Sport Austria 1,https://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
-DE | Sky Sport Austria 2,DE | Sky Sport Austria 2,https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
+DE | Sky Sport Austria 2,DE | Sky Sport Austria 2,
 DE | Sky Sport Austria 3,DE | Sky Sport Austria 3,
 DE | Sky Sport Austria 4,DE | Sky Sport Austria 4,
 DE | Sky Sport Austria 5,DE | Sky Sport Austria 5,

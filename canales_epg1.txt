@@ -440,7 +440,6 @@ Dhípica,Dhípica,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mast
 Fight Time,Fight Time,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png
 tlnovelas,tlnovelas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png
 DePelícula,DePelícula,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png
-DejateTV,DejateTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
 PTV Linares,PTV Linares,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 Unbeaten (DAZN),Unbeaten (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten%20(DAZN).png
 Mundial (DAZN),Mundial (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mundial%20(DAZN).png

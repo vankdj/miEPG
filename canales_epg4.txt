@@ -723,10 +723,6 @@ Music Box 00s,Music Box 00s,http://epg.ovh/logo/Music+Box+00s.png
 Music Box 90s,Music Box 90s,http://epg.ovh/logo/Music+Box+90s.png
 Music Box 80s,Music Box 80s,http://epg.ovh/logo/Music+Box+80s.png
 Stargaze TV,Stargaze TV,http://epg.ovh/logo/Stargaze+TV.png
-TVP Kryminaly,TVP Kryminaly,http://epg.ovh/logo/TVP+Kryminaly.png
-TVP Klan,TVP Klan,http://epg.ovh/logo/TVP+Klan.png
-TVP Barwy Szczescia,TVP Barwy Szczescia,http://epg.ovh/logo/TVP+Barwy+Szczescia.png
-TVP NA DOBRE I NA ZLE,TVP NA DOBRE I NA ZLE,http://epg.ovh/logo/TVP+NA+DOBRE+I+NA+ZLE.png
 PPV Event 1 HD,PPV Event 1 HD,http://epg.ovh/logo/PPV+Event+1+HD.png
 PPV Event 2 HD,PPV Event 2 HD,http://epg.ovh/logo/PPV+Event+2+HD.png
 PPV Event 3 HD,PPV Event 3 HD,http://epg.ovh/logo/PPV+Event+3+HD.png
@@ -755,99 +751,19 @@ Kanal Zero TV,Kanal Zero TV,http://epg.ovh/logo/Kanal+Zero+TV.png
 Super Express,Super Express,http://epg.ovh/logo/Super+Express.png
 itv4,itv4,http://epg.ovh/logo/itv4.png
 V90 HD,V90 HD,http://epg.ovh/logo/V90+HD.png
-TVP Milosc,TVP Milosc,http://epg.ovh/logo/TVP+Milosc.png
 Remonty TV,Remonty TV,http://epg.ovh/logo/Remonty+TV.png
 Romance HD,Romance HD,http://epg.ovh/logo/Romance+HD.png
 Action Zone,Action Zone,http://epg.ovh/logo/Action+Zone.png
 Mega Hit,Mega Hit,http://epg.ovh/logo/Mega+Hit.png
-TVP Muzyka i Koncerty,TVP Muzyka i Koncerty,http://epg.ovh/logo/TVP+Muzyka+i+Koncerty.png
-Polsat GO 1,Polsat GO 1,http://epg.ovh/logo/Polsat+GO+1.png
-Polsat GO 2,Polsat GO 2,http://epg.ovh/logo/Polsat+GO+2.png
-Polsat GO 3,Polsat GO 3,http://epg.ovh/logo/Polsat+GO+3.png
-Polsat GO 4,Polsat GO 4,http://epg.ovh/logo/Polsat+GO+4.png
-Polsat GO 5,Polsat GO 5,http://epg.ovh/logo/Polsat+GO+5.png
-Polsat GO 6,Polsat GO 6,http://epg.ovh/logo/Polsat+GO+6.png
-Polsat GO 7,Polsat GO 7,http://epg.ovh/logo/Polsat+GO+7.png
-Polsat GO 8,Polsat GO 8,http://epg.ovh/logo/Polsat+GO+8.png
-Polsat GO 9,Polsat GO 9,http://epg.ovh/logo/Polsat+GO+9.png
-Polsat GO 10,Polsat GO 10,http://epg.ovh/logo/Polsat+GO+10.png
-Dazn Event 1,Dazn Event 1,http://epg.ovh/logo/Dazn+Event+1.png
-Dazn Event 2,Dazn Event 2,http://epg.ovh/logo/Dazn+Event+2.png
-Dazn Event 3,Dazn Event 3,http://epg.ovh/logo/Dazn+Event+3.png
-Dazn Event 4,Dazn Event 4,http://epg.ovh/logo/Dazn+Event+4.png
-Dazn Event 5,Dazn Event 5,http://epg.ovh/logo/Dazn+Event+5.png
-Dazn Event 6,Dazn Event 6,http://epg.ovh/logo/Dazn+Event+6.png
-Dazn Event 7,Dazn Event 7,http://epg.ovh/logo/Dazn+Event+7.png
-Dazn Event 8,Dazn Event 8,http://epg.ovh/logo/Dazn+Event+8.png
-Dazn Event 9,Dazn Event 9,http://epg.ovh/logo/Dazn+Event+9.png
-Dazn Event 10,Dazn Event 10,http://epg.ovh/logo/Dazn+Event+10.png
-Dazn Event 11,Dazn Event 11,http://epg.ovh/logo/Dazn+Event+11.png
-Dazn Event 12,Dazn Event 12,http://epg.ovh/logo/Dazn+Event+12.png
-Dazn Event 13,Dazn Event 13,http://epg.ovh/logo/Dazn+Event+13.png
-Dazn Event 14,Dazn Event 14,http://epg.ovh/logo/Dazn+Event+14.png
-Dazn Event 15,Dazn Event 15,http://epg.ovh/logo/Dazn+Event+15.png
-Dazn Event,Dazn Event,http://epg.ovh/logo/Dazn+Event.png
-TVP Sport Extra,TVP Sport Extra,http://epg.ovh/logo/TVP+Sport+Extra.png
-Eurosport Extra,Eurosport Extra,http://epg.ovh/logo/Eurosport+Extra.png
-Eurosport Extra 1,Eurosport Extra 1,http://epg.ovh/logo/Eurosport+Extra+1.png
-Eurosport Extra 2,Eurosport Extra 2,http://epg.ovh/logo/Eurosport+Extra+2.png
-Eurosport Extra 3,Eurosport Extra 3,http://epg.ovh/logo/Eurosport+Extra+3.png
-Eurosport Extra 4,Eurosport Extra 4,http://epg.ovh/logo/Eurosport+Extra+4.png
-Eurosport Extra 5,Eurosport Extra 5,http://epg.ovh/logo/Eurosport+Extra+5.png
-Eurosport Extra 6,Eurosport Extra 6,http://epg.ovh/logo/Eurosport+Extra+6.png
-Eurosport Extra 7,Eurosport Extra 7,http://epg.ovh/logo/Eurosport+Extra+7.png
-Eurosport Extra 8,Eurosport Extra 8,http://epg.ovh/logo/Eurosport+Extra+8.png
-Eurosport Extra 9,Eurosport Extra 9,http://epg.ovh/logo/Eurosport+Extra+9.png
-Eurosport Extra 10,Eurosport Extra 10,http://epg.ovh/logo/Eurosport+Extra+10.png
-Eurosport Extra 11,Eurosport Extra 11,http://epg.ovh/logo/Eurosport+Extra+11.png
-Eurosport Extra 12,Eurosport Extra 12,http://epg.ovh/logo/Eurosport+Extra+12.png
-Eurosport Extra 13,Eurosport Extra 13,http://epg.ovh/logo/Eurosport+Extra+13.png
-Eurosport Extra 14,Eurosport Extra 14,http://epg.ovh/logo/Eurosport+Extra+14.png
-Eurosport Extra 15,Eurosport Extra 15,http://epg.ovh/logo/Eurosport+Extra+15.png
-Eurosport Extra 16,Eurosport Extra 16,http://epg.ovh/logo/Eurosport+Extra+16.png
-Eurosport Extra 17,Eurosport Extra 17,http://epg.ovh/logo/Eurosport+Extra+17.png
-Eurosport Extra 18,Eurosport Extra 18,http://epg.ovh/logo/Eurosport+Extra+18.png
-Eurosport Extra 19,Eurosport Extra 19,http://epg.ovh/logo/Eurosport+Extra+19.png
-Eurosport Extra 20,Eurosport Extra 20,http://epg.ovh/logo/Eurosport+Extra+20.png
-Eurosport Extra 21,Eurosport Extra 21,http://epg.ovh/logo/Eurosport+Extra+21.png
-Eurosport Extra 22,Eurosport Extra 22,http://epg.ovh/logo/Eurosport+Extra+22.png
-Eurosport Extra 23,Eurosport Extra 23,http://epg.ovh/logo/Eurosport+Extra+23.png
-Eurosport Extra 24,Eurosport Extra 24,http://epg.ovh/logo/Eurosport+Extra+24.png
-Eurosport Extra 25,Eurosport Extra 25,http://epg.ovh/logo/Eurosport+Extra+25.png
-RakutenTV,RakutenTV,http://epg.ovh/logo/RakutenTV.png
-Polsat Film 2,Polsat Film 2,http://epg.ovh/logo/Polsat+Film+2.png
-Canal+ Now,Canal+ Now,http://epg.ovh/logo/Canal%2b+Now.png
-Canal+ Extra 1,Canal+ Extra 1,http://epg.ovh/logo/Canal%2b+Extra+1.png
-Canal+ Extra 2,Canal+ Extra 2,http://epg.ovh/logo/Canal%2b+Extra+2.png
-Canal+ Extra 3,Canal+ Extra 3,http://epg.ovh/logo/Canal%2b+Extra+3.png
-Canal+ Extra 4,Canal+ Extra 4,http://epg.ovh/logo/Canal%2b+Extra+4.png
-Canal+ Extra 5,Canal+ Extra 5,http://epg.ovh/logo/Canal%2b+Extra+5.png
-Canal+ Extra 6,Canal+ Extra 6,http://epg.ovh/logo/Canal%2b+Extra+6.png
-Canal+ Extra 7,Canal+ Extra 7,http://epg.ovh/logo/Canal%2b+Extra+7.png
-Skyshowtime 1,Skyshowtime 1,http://epg.ovh/logo/Skyshowtime+1.png
-Skyshowtime 2,Skyshowtime 2,http://epg.ovh/logo/Skyshowtime+2.png
-Filmax Cafe,Filmax Cafe,http://epg.ovh/logo/Filmax+Cafe.png
-Comedy Channel Extra,Comedy Channel Extra,http://epg.ovh/logo/Comedy+Channel+Extra.png
-Music 00s,Music 00s,http://epg.ovh/logo/Music+00s.png
-Music 90s,Music 90s,http://epg.ovh/logo/Music+90s.png
-Music 80s,Music 80s,http://epg.ovh/logo/Music+80s.png
-Music Live,Music Live,http://epg.ovh/logo/Music+Live.png
-Music Club,Music Club,http://epg.ovh/logo/Music+Club.png
-Music Hits,Music Hits,http://epg.ovh/logo/Music+Hits.png
-Pixel TV,Pixel TV,http://epg.ovh/logo/Pixel+TV.png
-Wedotv Auta,Wedotv Auta,http://epg.ovh/logo/Wedotv+Auta.png
-Kanal Zero TV,Kanal Zero TV,http://epg.ovh/logo/Kanal+Zero+TV.png
-itv4,itv4,http://epg.ovh/logo/itv4.png
-V90 HD,V90 HD,http://epg.ovh/logo/V90+HD.png
 TVP Milosc,TVP Milosc,http://epg.ovh/logo/TVP+Milosc.png
 TVP Muzyka i Koncerty,TVP Muzyka i Koncerty,http://epg.ovh/logo/TVP+Muzyka+i+Koncerty.png
 TVP Kryminaly,TVP Kryminaly,http://epg.ovh/logo/TVP+Kryminaly.png
 TVP Klan,TVP Klan,http://epg.ovh/logo/TVP+Klan.png
 TVP Barwy Szczescia,TVP Barwy Szczescia,http://epg.ovh/logo/TVP+Barwy+Szczescia.png
 TVP NA DOBRE I NA ZLE,TVP NA DOBRE I NA ZLE,http://epg.ovh/logo/TVP+NA+DOBRE+I+NA+ZLE.png
+Super Express,Super Express,http://epg.ovh/logo/Super+Express.png
 Sky UHD Sports 1,Sky UHD Sports 1,http://epg.ovh/logo/Sky+UHD+Sports+1.png
 Sky UHD Sports 2,Sky UHD Sports 2,http://epg.ovh/logo/Sky+UHD+Sports+2.png
-Super Express,Super Express,http://epg.ovh/logo/Super+Express.png
 Premier Sports Rugby,Premier Sports Rugby,http://epg.ovh/logo/Premier+Sports+Rugby.png
 Astro Sports UHD,Astro Sports UHD,http://epg.ovh/logo/Astro+Sports+UHD.png
 Vevo 80s,Vevo 80s,http://epg.ovh/logo/Vevo+80s.png
@@ -862,3 +778,20 @@ Remonty TV,Remonty TV,http://epg.ovh/logo/Remonty+TV.png
 Romance HD,Romance HD,http://epg.ovh/logo/Romance+HD.png
 Action Zone,Action Zone,http://epg.ovh/logo/Action+Zone.png
 Mega Hit,Mega Hit,http://epg.ovh/logo/Mega+Hit.png
+Filmax Cafe,Filmax Cafe,http://epg.ovh/logo/Filmax+Cafe.png
+Comedy Channel Extra,Comedy Channel Extra,http://epg.ovh/logo/Comedy+Channel+Extra.png
+Music 00s,Music 00s,http://epg.ovh/logo/Music+00s.png
+Music 90s,Music 90s,http://epg.ovh/logo/Music+90s.png
+Music 80s,Music 80s,http://epg.ovh/logo/Music+80s.png
+Music Live,Music Live,http://epg.ovh/logo/Music+Live.png
+Music Club,Music Club,http://epg.ovh/logo/Music+Club.png
+Music Hits,Music Hits,http://epg.ovh/logo/Music+Hits.png
+Pixel TV,Pixel TV,http://epg.ovh/logo/Pixel+TV.png
+Wedotv Auta,Wedotv Auta,http://epg.ovh/logo/Wedotv+Auta.png
+Kanal Zero TV,Kanal Zero TV,http://epg.ovh/logo/Kanal+Zero+TV.png
+V90 HD,V90 HD,http://epg.ovh/logo/V90+HD.png
+NOW 80s,NOW 80s,http://epg.ovh/logo/NOW+80s.png
+NOW 90s 00s,NOW 90s 00s,http://epg.ovh/logo/NOW+90s+00s.png
+Euronews Polska,Euronews Polska,http://epg.ovh/logo/Euronews+Polska.png
+Newsmax Polska,Newsmax Polska,http://epg.ovh/logo/Newsmax+Polska.png
+TVP Kryminaly,TVP Kryminaly,http://epg.ovh/logo/TVP+Kryminaly.png

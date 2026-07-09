@@ -757,6 +757,21 @@ Panaroma Kina,Panaroma Kina,http://epg.ovh/logo/Panaroma+Kina.png
 Strefa Thillera,Strefa Thillera,http://epg.ovh/logo/Strefa+Thillera.png
 Strefa Komedii,Strefa Komedii,http://epg.ovh/logo/Strefa+Komedii.png
 Top Serials,Top Serials,http://epg.ovh/logo/Top+Serials.png
+Film_Classic,Film+X Classic,http://epg.ovh/logo/Film_Classic.png
+Film_Hits,Film+X Hits,http://epg.ovh/logo/Film_Hits.png
+Film_Premium,Film+X Premium,http://epg.ovh/logo/Film_Premium.png
+Film-TOP,Film+X TOP,http://epg.ovh/logo/Film-TOP.png
+Film-Horror,Film+X Horror,http://epg.ovh/logo/Film-Horror.png
+Film-Fantasy,Film+X Fantasy,http://epg.ovh/logo/Film-Fantasy.png
+Film-Kids,Film+X Kids,http://epg.ovh/logo/Film-Kids.png
+Film-Newmovies-1,Film+X New Movies 1,http://epg.ovh/logo/Film-Newmovies-1.png
+Film-Newmovies-2,Film+X New Movies 2,http://epg.ovh/logo/Film-Newmovies-2.png
+Film-UHD-1,Film+X UHD 1,http://epg.ovh/logo/Film-UHD-1.png
+TNT Sports 1,TNT Sports 1,http://epg.ovh/logo/TNT+Sports+1.png
+TNT Sports 2,TNT Sports 2,http://epg.ovh/logo/TNT+Sports+2.png
+TNT Sports 3,TNT Sports 3,http://epg.ovh/logo/TNT+Sports+3.png
+TNT Sports 4,TNT Sports 4,http://epg.ovh/logo/TNT+Sports+4.png
+TNT Sports Ultimate,TNT Sports Ultimate,http://epg.ovh/logo/TNT+Sports+Ultimate.png
 Super Express,Super Express,http://epg.ovh/logo/Super+Express.png
 Pogoda24 TV,Pogoda24 TV,http://epg.ovh/logo/Pogoda24+TV.png
 V90 HD,V90 HD,http://epg.ovh/logo/V90+HD.png

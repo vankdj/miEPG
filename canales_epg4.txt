@@ -768,6 +768,9 @@ Film-Newmovies-1,Film+X New Movies 1,http://epg.ovh/logo/Film-Newmovies-1.png
 Film-Newmovies-2,Film+X New Movies 2,http://epg.ovh/logo/Film-Newmovies-2.png
 Film-UHD-1,Film+X UHD 1,http://epg.ovh/logo/Film-UHD-1.png
 Film-UHD-2,Film+X UHD 2,http://epg.ovh/logo/Film-UHD-2.png
+Radio 357,Radio 357,http://epg.ovh/logo/Radio+357.png
+Radio Nowy Swiat,Radio Nowy Świat,http://epg.ovh/logo/Radio+Nowy+Swiat.png
+Polskie Radio Trojka,Moje Polskie Radio - Trójka,http://epg.ovh/logo/Polskie+Radio+Trojka.png
 Super Express,Super Express,http://epg.ovh/logo/Super+Express.png
 Pogoda24 TV,Pogoda24 TV,http://epg.ovh/logo/Pogoda24+TV.png
 TVC Super,TVC Super,http://epg.ovh/logo/TVC+Super.png

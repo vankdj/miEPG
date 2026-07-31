@@ -379,7 +379,7 @@ Canal Terrassa,Canal Terrassa,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1
 Televisió de l'Hospitalet,Televisió de l'Hospitalet,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d
 TV Berguedà,TV Berguedà,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bfcb5ca4ff69469cbc691e0c5ddc4d4b/Images/92273c48950642bc9ebdf33eae57ab77
 Canal Taronja Anoia,Canal Taronja Anoia,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6b76d3a06b3e40d3aa0f180825e49c3e/Images/84251d414f3d4709beb81bba4d6bd222
-Canal Reus TV,Canal Reus TV,
+Canal Reus TV,Canal Reus TV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/ef2270b80a714e71b59919e6827ec051
 Canal21 Ebre,Canal21 Ebre,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/db43c578923f403b866bf4a2cc432f20/Images/b8a496cd30d44312859c06cbcb58dcfb
 Canal Terres de l'Ebre,Canal Terres de l'Ebre,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/9f325a5f48ad43d486d9cdb3e41dde08
 TV Girona,TV Girona,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c1ed09e701c74922a7096204ce7f7212/Images/399a1dd20d3c4a5aad992b24d7eeb4c4
@@ -393,7 +393,7 @@ Cugat Media,Cugat Media,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset
 Olot TV,Olot TV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/1f5bd5cdeb5d40cda734385044e1636e
 Canal Taronja Central,Canal Taronja Central,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2483804e1dd343a08a95864a921fdce8/Images/bf16514e0dca4106954747a84dabb40a
 VOTV,VOTV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/f3496345ca4f49e1b16c1f306ac33090
-Canal Blau,Canal Blau,
+Canal Blau,Canal Blau,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/4bf5cd5a7b124e96b80a8bfecc45c730
 Lleida TV,Lleida TV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/58747f9ed82342bd8472425d531d402b
 Banyoles TV,Banyoles TV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/6e9740ff00014dfaa3b601e1f9240ae2
 Vallès Visió,Vallès Visió,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc

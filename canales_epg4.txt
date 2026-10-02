@@ -771,3 +771,9 @@ Vevo Hip-Hop,Vevo Hip-Hop,http://epg.ovh/logo/Vevo+Hip-Hop.png
 Vevo Pop,Vevo Pop,http://epg.ovh/logo/Vevo+Pop.png
 Filmoteka,Filmoteka,http://epg.ovh/logo/Filmoteka.png
 Sky Sport UHD,Sky Sport UHD,http://epg.ovh/logo/Sky+Sport+UHD.png
+TNT Sports 5,TNT Sports 5,http://epg.ovh/logo/TNT+Sports+5.png
+TNT Sports 6,TNT Sports 6,http://epg.ovh/logo/TNT+Sports+6.png
+TNT Sports 7,TNT Sports 7,http://epg.ovh/logo/TNT+Sports+7.png
+TNT Sports 8,TNT Sports 8,http://epg.ovh/logo/TNT+Sports+8.png
+TNT Sports 9,TNT Sports 9,http://epg.ovh/logo/TNT+Sports+9.png
+TNT Sports 10,TNT Sports 10,http://epg.ovh/logo/TNT+Sports+10.png

@@ -531,7 +531,6 @@ Sky Sport Tennis,Sky Sport Tennis,http://epg.ovh/logo/Sky+Sport+Tennis.png
 Canal+ Sport FR,Canal+ Sport FR,http://epg.ovh/logo/Canal%2b+Sport+FR.png
 Premier Sports 1,Premier Sports 1,http://epg.ovh/logo/Premier+Sports+1.png
 Premier Sports 2,Premier Sports 2,http://epg.ovh/logo/Premier+Sports+2.png
-Vsport UHD,Vsport UHD,
 Szlagier TV,Szlagier TV,http://epg.ovh/logo/Szlagier+TV.png
 FAN Klub,FAN Klub,http://epg.ovh/logo/FAN+Klub.png
 Polsat Film 2,Polsat Film 2,http://epg.ovh/logo/Polsat+Film+2.png
